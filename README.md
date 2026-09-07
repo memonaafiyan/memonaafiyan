@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi there, I'm Memon Aafiyan 👋
 
-<!--
-**memonaafiyan/memonaafiyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* **Full-Stack Web Developer** & MCA Graduate
+* Passionate about building robust backend architectures and clean, responsive user interfaces.
+* Currently working at **Webify.ai**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+* **Frontend:** HTML5, CSS3, JavaScript, Tailwind CSS, Bootstrap
+* **Backend:** Python, Django, PHP
+* **CMS & Tools:** WordPress, Cloudflare, Git, XAMPP
+
+---
+
+### 📈 GitHub Stats
+![Aafiyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=memonaafiyan&show_icons=true&theme=radical)
