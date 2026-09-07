@@ -6,12 +6,12 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
+###  Tech Stack & Tools
 * **Frontend:** HTML5, CSS3, JavaScript, Tailwind CSS, Bootstrap
-* **Backend:** Python, Django, PHP
+* **Backend:** Python, Django, 
 * **CMS & Tools:** WordPress, Cloudflare, Git, XAMPP
 
 ---
 
-### 📈 GitHub Stats
+###  GitHub Stats
 ![Aafiyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=memonaafiyan&show_icons=true&theme=radical)
